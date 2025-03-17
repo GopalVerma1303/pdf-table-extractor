@@ -154,23 +154,3 @@ pip install --upgrade pandas pdfplumber streamlit
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-```plaintext
-
-This README provides comprehensive documentation for your PDF Table Extractor tool, including all the important commands for installation, running the application, and troubleshooting. It reflects the CSV-based approach we've implemented to avoid the openpyxl dependency issues.
-
-The README includes:
-
-1. A clear overview of what the tool does
-2. Installation instructions with all required dependencies
-3. Usage instructions for both the web interface and command line
-4. Explanation of the extraction methods used
-5. Troubleshooting tips for common issues
-6. All important commands in dedicated sections
-
-Users should now have all the information they need to successfully install a
-```
-
-```
-
-```
